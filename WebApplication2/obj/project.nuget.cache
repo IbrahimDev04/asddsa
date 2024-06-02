@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "GShuNK7xDWrngwZ6GdNRKpiyMQ3Clnxvg4Ln/Ru09fzuYgNrHZdj7oziX9BTe+fRJH7Puncv52q4l8agBaPWXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ibrah\\OneDrive\\Masaüstü\\CodeAcademy\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ibrah\\.nuget\\packages\\messagepack\\2.5.108\\messagepack.2.5.108.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\messagepack.annotations\\2.5.108\\messagepack.annotations.2.5.108.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\8.0.6\\microsoft.aspnetcore.connections.abstractions.8.0.6.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\8.0.6\\microsoft.aspnetcore.signalr.common.8.0.6.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.messagepack\\8.0.6\\microsoft.aspnetcore.signalr.protocols.messagepack.8.0.6.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\microsoft.extensions.features\\8.0.6\\microsoft.extensions.features.8.0.6.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\microsoft.net.stringtools\\17.4.0\\microsoft.net.stringtools.17.4.0.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
